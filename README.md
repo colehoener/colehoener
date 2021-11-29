@@ -3,7 +3,7 @@
 I am currently a student at Drexel University studying Software Engineering with an minor in Entrepreneurship. Currently, I am 22 and live in Philadelphia, PA. My current focus is full stack development and software engineering.
 
 ## On my GitHub
-On my github, you will find a collection of projects I have worked on, refrence code from classes I have taken or developed myself and private repositories I have used for freelance work and contracts.
+On my github, you will find a collection of projects I have worked on, refrence code from classes I have taken or developed myself, and private repositories I have used for freelance work.
 
 ## Current Skills
 - C
