@@ -13,4 +13,4 @@ I will not claim I am an expert in each skill, but I can produce high quaility w
 ## Contact
 📫 Email me at colehoener@gmail.com
 
-![<LinkedIn>](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [-> Link](https://www.linkedin.com/in/cole-hoener/)
+[![<LinkedIn>](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cole-hoener/)
