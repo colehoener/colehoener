@@ -1,6 +1,6 @@
 # Hi, I’m Cole Hoener
 ## About Me
-I am currently a student at Drexel University studying Software Engineering with an minor in Entrepreneurship. Currently, I am 23 and live in Philadelphia, PA. My current focus is full stack development and software engineering.
+I'm currently a software engineer at Amazon Web Services
 
 ## On my GitHub
 On my github, you will find a collection of projects I have worked on, reference code from classes I have taken or developed myself, and private repositories I have used for freelance work or my company.
